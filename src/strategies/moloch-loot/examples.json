@@ -1,22 +1,22 @@
 [
   {
-    "name": "Moloch Loot",
+    "name": "Moloch Shares",
     "strategy": {
-      "name": "moloch-loot",
+      "name": "moloch-shares",
       "params": {
-        "symbol": "LOOT",
-        "address": "0xb152b115c94275b54a3f0b08c1aa1d21f32a659a",
+        "symbol": "SHARE",
+        "address": "0xf7985ebb0a468178bc24b01612dc5723fc2eb089",
         "decimals": 0
       }
     },
     "network": "100",
     "addresses": [
-      "0xc9283bbd79b016230838e57ce19e6aca12dd2c0d",
-      "0x85ac9e682995ebebde8ff107fbbbfe7c40992e4a",
-      "0x3d1df1a816577a62db61281f673c4f43ae063490",
-      "0xd6e371526cdaee04cd8af225d42e37bc14688d9e",
-      "0x839395e20bbb182fa440d08f850e6c7a8f6f0780"
+      "00x078071e22d20b4818bebc0ec02399769e53d360a",
+      "00xd11bea7d481d7128b0ba0acd42cc6c26c95a79f8",
+      "0xa1daf832cbcd6925063f2bd91a2a1a4ae58fe5db",
+      "0xe121216cd069f81e83f545921b3c5b12d3e7016b",
+      "0xbb6739137ea55eac20b52ea7652c848495458ea2"
     ],
-    "snapshot": 15848545
+    "snapshot": 38843342
   }
 ]
